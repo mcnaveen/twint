@@ -2,7 +2,7 @@ import twint
 import os
 
 '''
-Test.py - Testing TWINT to make sure everything works.
+Test.py - Testing TWINT to make sure everything works
 '''
 
 
